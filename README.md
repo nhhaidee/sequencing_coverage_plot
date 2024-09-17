@@ -42,7 +42,7 @@ wgscovplot /path/to/results_folder
 - Easy-to-use: Simply provide a Nextflow output directory containing  and `wgscovplot` will figure out what files it needs to generate its interactive sequencing coverage plots 
   - Compatible workflows: 
     - [nf-core/viralrecon]
-    - [CFIA-NCFAD/nf-virontus] 
+    - [CFIA-NCFAD/nf-virontus]
     - [CFIA-NCFAD/nf-flu]
 - Fully-interactive plots featuring:
   - Zoom, scroll, pan, select regions of interest 
@@ -168,6 +168,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 [SnpSift]: https://pcingola.github.io/SnpEff/ss_introduction/
 [Mosdepth]: https://github.com/brentp/mosdepth
 [nf-core/viralrecon]: https://github.com/nf-core/viralrecon
-[peterk87/nf-virontus]: https://github.com/peterk87/nf-virontus/
+[CFIA-NCFAD/nf-virontus]: https://github.com/CFIA-NCFAD/nf-virontus
 [CFIA-NCFAD/nf-flu]: https://github.com/CFIA-NCFAD/nf-flu/
 [Canadian Food Inspection Agency of Canada]: https://inspection.canada.ca/science-and-research/our-laboratories/ncfad-winnipeg/eng/1549576575939/1549576643836
